@@ -50,4 +50,5 @@ The system's testing strategy includes unit testing, integration testing, system
 The project's source code is hosted on GitHub, allowing users to explore the codebase, documentation, and dependencies.
 
 # LINK TO INDEX PICKLE FILE
+please download the pickle file, before excution and place the same in working directory
 https://drive.google.com/file/d/1IoubHObnexQN1yxDO7goDPHPjTePXnWM/view?usp=sharing
